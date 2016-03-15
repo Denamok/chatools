@@ -1,0 +1,5 @@
+<?php
+$serveur='localhost';
+$user='poney';
+$base='poney_database';
+$password='neypo';

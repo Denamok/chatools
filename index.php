@@ -6,7 +6,7 @@
 
 <html>
 	<head>	
-		<title>Chatools</title><base href="http://pyxis.de-mok.com/" />
+		<title>Chatools</title><base href="http://chatools.k-lan.com/" />
 		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>		
 		<script type="text/javascript" src="js/jquery-ui-1.8.1.custom.min.js"></script>		
 		<script type="text/javascript" src="js/jquery.ui.datepicker-fr.js"></script>		
