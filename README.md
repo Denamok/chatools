@@ -1,4 +1,4 @@
-=== Chatools v2.0 ===
+# Chatools v2.0
 
 = Setup =
 
