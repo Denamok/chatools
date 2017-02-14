@@ -20,6 +20,7 @@ function getFirstYear(){
     $req = mysql_query($sql);
     $row = mysql_fetch_object($req);
     $firstYear = date('Y', strtotime($row->timestamp));
+    if($firstYear<2000)$firstYear=2015;
     return $firstYear;
 }
 
