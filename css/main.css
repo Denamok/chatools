@@ -72,3 +72,18 @@ a img{
     width: 960px;
 }
 
+#open_all {
+  cursor: pointer;
+}
+
+#open_all {
+  vertical-align:middle;
+}
+
+#close_all {
+  cursor: pointer;
+}
+
+#close_all {
+  vertical-align:middle;
+}

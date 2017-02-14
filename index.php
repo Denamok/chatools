@@ -27,7 +27,7 @@
 		<div id="global">
 			<div id="site">		
 			
-			<p class="floatRight actionAll">Action sur toutes les semaines : <a href="#" id="open_all"><img src="images/plusS.png" alt="" /></a><a href="#" id="close_all"><img src="images/minusS.png" alt="" /></a></p>
+			<p class="floatRight actionAll">Action sur toutes les semaines : <span id="open_all"><img src="images/plusS.png" alt="" /></span><span id="close_all"><img src="images/minusS.png" alt="" /></span></p>
 			<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CHATOOLS </h1>
 			
 				<div class="contenu">		
